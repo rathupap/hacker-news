@@ -1,0 +1,21 @@
+{
+    "name": "Indulger App",
+    "short_name": "Indulger",
+    "description": "Indulger is a in-restaurant online ordering app, allows you to order food from a restaurant that you are in and manage all your orders from your mobile phone.",
+    "lang": "en",
+    "start_url": "/ ",
+    "display": "standalone",
+    "theme_color": "#f60f60",
+    "icons": [
+      {
+        "src": "/static/indulger-192x192.png",
+        "sizes": "192X192",
+        "type": "image/png"
+      },
+      {
+        "src": "/static/indulger-512x512.png",
+        "sizes": "512X512",
+        "type": "image/png"
+      }
+    ]
+  }
